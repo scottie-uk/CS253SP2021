@@ -1,4 +1,5 @@
-app/*duck.*
+.gitignore
+app/duck.*
 *.[Pp]sw
 quackers.txt
 pond/mallard.js
