@@ -4,4 +4,4 @@ function testA( value){
  
  testA(100);
 
-Console.log("Shandy");
+Console.log("Shandy is a beer and lemonade mix");
